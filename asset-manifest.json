@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Metro-City-Kharian/static/css/main.c22d2b14.css",
+    "main.js": "/Metro-City-Kharian/static/js/main.3f19202c.js",
+    "static/js/787.a83accd8.chunk.js": "/Metro-City-Kharian/static/js/787.a83accd8.chunk.js",
+    "index.html": "/Metro-City-Kharian/index.html",
+    "main.c22d2b14.css.map": "/Metro-City-Kharian/static/css/main.c22d2b14.css.map",
+    "main.3f19202c.js.map": "/Metro-City-Kharian/static/js/main.3f19202c.js.map",
+    "787.a83accd8.chunk.js.map": "/Metro-City-Kharian/static/js/787.a83accd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c22d2b14.css",
+    "static/js/main.3f19202c.js"
+  ]
+}
